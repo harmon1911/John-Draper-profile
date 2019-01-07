@@ -1,0 +1,64 @@
+<!Harmon Ung>
+<!December 2,2018>
+<!Assignment intro to website HTML, John Draper>
+<!DOCTYPE html>
+	<!DOCTYPE html>
+	<head>
+		<title>John Draper</title>
+		<body>
+		<p id="Draper-Quote"><em> “If I do what I do, it is only to explore a system” </em></p>
+		<img id="John-apple" src="https://lh6.googleusercontent.com/bgdQMo8T4CyNlQ5uqDHp_C-XqMhGYW2ZhfDVB0PXOO0riEgg9SsJWPGU0_y-b1HVLoJ_5LRABEa9PP2i2kgyaZYZapp18lc7ZBrmlmW_epvOmQdtZynytqkDFsXCvldlF3e3uuXj">
+		<link href="style.css" rel="stylesheet" type="text/css">
+	
+	<h1>John Draper</h1>
+	<p id="Draper-title">Phone Phreak and Programmer<br>(1943 - present year, Age: 75)</p>
+	
+	<div class="paragraphs">
+	<h2 class="headers">Draper's Background</h2>
+	<p>
+	John Draper was born in America on March 11,1943, who was the son of a United States Air Force engineer. 
+	When he was a child he would get bullied quite frequently at school but was given psychological treatment.
+	He had also built a home radio station out of discarded military components. <img id="photo-one" width=159 height=79.5 src="data:image/jpeg;base64,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">
+	While he worked in the us air force, he had helped his fellow service members by giving them free phone calls home which he had done by using a local telephone switchboard.
+	When he was discharged he moved to Silicon Valley where he works on the early designs of a cordless telephone.
+	John Draper has not died yet and is currently 75 years old.
+	</p></div>
+
+    <div class="paragraphs">
+	<h3 class="headers">Area of Expertise</h3>
+	<p>
+	John Draper’s education had come from learning at school and different colleges as well as from his father, hence why he’s an expert with machines and programming which has been seen when he was a child and when he was enlisted in the US Air Force.
+	Draper is famous for the making of the blue box as well as using a toy from a cereal called Cap’n Crunch to control the phone network of truck lines.
+	Draper is also famous for working with Steve Jobs and many other things like for apple II the first word processor called easywriter.
+	Draper had become famous through his work as well as having newsletter and other news about him and what he has done.
+	Just by getting information about him on the news, he has caught many eyes of people that would help him and change his life later on, like Steve Jobs and Steve Wozniak.
+	</p></div>
+
+	<div class="paragraphs">
+	<h4 class="headers">Impact on the World</h4>
+	<img id="photo-two" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Qnm9NvHd7c97Xq-Ttj05hiSZEPOiAylvc8y5XXB0cr0NHt998g">
+	<p>
+	John Draper has done many things in his life, from creating the blue box and working with apple, to several other jobs as a phone phreak, programmer and cyber security.
+	One of his greatest impacts on the world would have to be the blue box as it had allowed control of the phone network.
+	Due to the blue box he had been interviewed and was profiled by the magazine Esquire, giving him publicity and attention.
+	He had changed the world as with the creation of the blue box, the phone companies had to fix the issues to cover the exploits.
+	Not only did they have to negate the blue box but they realized their system has its flaws and would need to improve it in order to keep everything in control.
+	Interesting facts </p>
+	
+	<li>John draper has an allegation for sexual harassment</li>
+	<li>Organizers of four hacking and security-related conferences banned John draper for he had allegation</li>
+	<li>When working with apple, most people did not like Draper and would not allow most of his devices became products</li>
+    </div>
+    
+	<div class="paragraphs">
+	<h5 class="headers"> Sources </h5>
+	<p>
+	<a href="https://www.revolvy.com/page/John-Draper">Who is John Draper? </a> <br>
+	<a href="https://www.techopedia.com/definition/18181/john-draper">Techopedia explains John Draper </a> <br>
+	<a href="https://www.dailydot.com/layer8/john-draper-captain-crunch/">Daily dot Steve Wozniak and Steve Jobs story of meeting John Draper</a> <br>
+	<a href="http://mentalfloss.com/article/19484/true-crime-john-draper-original-whistle-blower">True Crime:John Draper</a> <br>
+	</p></div>
+	
+	</body>
+
+</html>

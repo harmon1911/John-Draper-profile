@@ -1,0 +1,19 @@
+<!Harmon Ung>
+<!December 2,2018>
+<!CSS John Draper>
+<!DOCTYPE css>
+h1 {Text-align:center;}
+#John-apple {display:block; border:12px inset rgb(255,0,102);
+Margin-left:auto;
+Margin-right:auto;
+}
+#Draper-Quote {Text-align:center;Font-size:30px;}
+#Draper-title {Text-align:center;}
+body {background-color:rgb(202,0,42);}
+h2 {Margin-left:20px;}
+.paragraphs {border-radius: 100px; background-color:rgb(255,102,0);
+padding:40px 40px 50px 40px;Margin:20px 100px 20px 100px;text-align:left;
+}
+.headers {Font-size:20px; }
+#photo-one {float:right;border:5px solid rgb(255,0,102);}
+#photo-two {float:left ;border:5px solid rgb(255,0,102);margin:5px;}
